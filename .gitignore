@@ -1,0 +1,5 @@
+data
+*.db
+instance
+__pycache__
+myenv
